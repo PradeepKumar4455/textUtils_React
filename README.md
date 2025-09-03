@@ -24,14 +24,6 @@ The app also supports **Dark Mode** for a better user experience.
 
 ------------------------------------------------------------------------
 
-## 📷 UI Screenshot
-
-### 🖥️ Dark Mode
-
-![TextUtils Dark Mode](./UI_Screenshots/textutils_ui.png)
-
-------------------------------------------------------------------------
-
 ## 📂 Project Structure
 
     TextUtils_React/
@@ -54,9 +46,14 @@ The app also supports **Dark Mode** for a better user experience.
     │   ├── index.css
     │   └── logo.svg
     │
+    |
+    |
+    ├── UI_Screenshots
+    |
+    | 
     ├── package.json
-    ├── README.md
-    └── node_modules/
+    |
+    └── README.md
 
 ------------------------------------------------------------------------
 
